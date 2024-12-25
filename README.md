@@ -32,4 +32,8 @@ git clone https://github.com/Pooja389/lego_analysis.git
 ```bash
 cd lego_analysis
 ```
-Open analysis.ipynb and run the cells in order
+Open Lego_Analysis.ipynb and run the cells in order
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
